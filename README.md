@@ -1,4 +1,4 @@
-[![Header](https://github.com/AliSabet1380/AliSabet1380/blob/main/github_banner%20(2).png)](https://github.com/AliSabet1380)
+[![Header](https://github.com/AliSabet1380/AliSabet1380/blob/main/github_banner.png)](https://github.com/AliSabet1380)
 
 # 👋 Hello!
 
