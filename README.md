@@ -1,3 +1,5 @@
+[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
+
 # 👋 Hi there! I'm **Ali Sabet**
 
 ## 🚀 About Me  
