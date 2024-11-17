@@ -11,13 +11,12 @@ I work with a variety of tools and frameworks to bring ideas to life. Here's a g
 - **Frontend**: React , Next.js, Redux, React Query  
 - **Backend**: Express.js, Hono  
 - **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Others**: TailwindCSS, Socket.IO, RESTful APIs, and more  
+- **Others**: TailwindCSS, Socket.IO, RESTful APIs, Drizzle, Prisma and more ... 
 
 ---
 
 ## 🌐 Let's Connect  
-
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Portfolio**: [Your Portfolio Link](#)  
-- **Email**: [your.email@example.com](mailto:ali8551sbt@gmail.com)
+ 
+- **Portfolio**: [my protfolio](https://protfolio-nu-sandy.vercel.app)  
+- **Email**: [ali8551sbt@gmail.com](mailto:ali8551sbt@gmail.com)
 ---
