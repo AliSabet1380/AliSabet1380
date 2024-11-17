@@ -24,4 +24,3 @@ I work with a variety of tools and frameworks to bring ideas to life. Here's a g
  
 - **Portfolio**: [my protfolio](https://protfolio-nu-sandy.vercel.app)  
 - **Email**: [ali8551sbt@gmail.com](mailto:ali8551sbt@gmail.com)
----
