@@ -4,12 +4,12 @@
 
 ---
 
-## 🚀 About Me  ##
+## 🚀 About Me  
 I'm a **Fullstack Web Developer** with **2+ years of experience** in building modern, scalable web applications. I enjoy crafting high-quality solutions using the latest technologies.
 
 ---
 
-## 🛠️ Tech Stack  ##
+## 🛠️ Tech Stack  
 I work with a variety of tools and frameworks to bring ideas to life. Here's a glimpse of my expertise:
 
 - **Language**: Typescript
@@ -20,7 +20,7 @@ I work with a variety of tools and frameworks to bring ideas to life. Here's a g
 
 ---
 
-## 🌐 Let's Connect ##
+## 🌐 Let's Connect 
  
 - **Portfolio**: [my protfolio](https://protfolio-nu-sandy.vercel.app)  
 - **Email**: [ali8551sbt@gmail.com](mailto:ali8551sbt@gmail.com)
