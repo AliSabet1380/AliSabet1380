@@ -1,7 +1,6 @@
 [![Header](https://github.com/AliSabet1380/AliSabet1380/blob/main/github_banner.png)](https://github.com/AliSabet1380)
 
 # 👋 Hello!
-
 ---
 
 ## 🚀 About Me  
