@@ -22,5 +22,5 @@ I work with a variety of tools and frameworks to bring ideas to life. Here's a g
 
 ## 🌐 Let's Connect 
  
-- **Portfolio**: [my protfolio](https://protfolio-nu-sandy.vercel.app)  
+- **LinkedIn**: [my linkedin](https://www.linkedin.com/in/ali-sabet-79629a249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Email**: [ali8551sbt@gmail.com](mailto:ali8551sbt@gmail.com)
