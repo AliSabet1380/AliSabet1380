@@ -12,6 +12,9 @@ I'm a **Fullstack Web Developer** with **2+ years of experience** in building mo
 ##  Tech Stack  
 I work with a variety of tools and frameworks to bring ideas to life. Here's a glimpse of my expertise:
 
+[(https://github.com/AliSabet1380/AliSabet1380/blob/main/banner-1.jpg)](https://github.com/AliSabet1380)
+
+
 - **Language**: Typescript
 - **Frontend**: React, Next.js, Redux, React Query  
 - **Backend**: Express.js, Hono  
