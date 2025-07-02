@@ -5,7 +5,7 @@
 ---
 
 ##  About Me  
-I'm a **Fullstack Web Developer** with **2+ years of experience** in building modern, scalable web applications. I enjoy crafting high-quality solutions using the latest technologies.
+I'm a **Fullstack Web Developer** with **3+ years of experience** in building modern, scalable web applications. I enjoy crafting high-quality solutions using the latest technologies.
 
 ---
 
